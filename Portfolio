@@ -95,9 +95,9 @@
      <header>
          <div class="header-content">
              <!-- Add your profile picture here -->
-             <img src="1028c9b6f80b65ddc4d687ef0ddf144d.jpg" alt="Your Profile Picture" class="profile-picture">
+             <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
              <h1>sathish kumar B</h1>
-             <p>A COMPUTER APPLICATION STUDENT</p>
+             <p>AM COMPUTER APPLICATION STUDENT</p>
          </div>
      </header>
  
@@ -167,7 +167,7 @@
          <div class="section-content">
              <center>
              <h2>Resume</h2>
-             <a href="file.pdf" target="_blank" class="download-button">Download CV</a>
+             <a href="sathish_resume.pdf" target="_blank" class="download-button">Download CV</a>
          </center>
          </div>
          
